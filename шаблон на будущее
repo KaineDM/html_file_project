@@ -1,0 +1,66 @@
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <link rel="stylesheet" type="text/css" href="./css/common.css" />
+    <link rel="stylesheet" type="text/css" href="./css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="./css/Yablonka.css" />
+    <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/sticky-js@1.3.0/dist/sticky.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script>
+
+
+
+</head>
+
+<body class="flex-column">
+    <div class="yablonka root">
+        <div class="root1" style="--src:url(../assets/53513f53bd4980c3fda21877e246ebb2.svg)">
+        <img class="image" src="./assets/1b9e3ef9bba6ad20803f91c3978c856c.png" alt="alt text" />
+            <div class="wrapper">
+                <div class="wrapper1">
+                    <button class="btn">
+                    <p><a href="https://vk.com/club117846642">Группа ВК</a></p>
+                </button>
+                </div>
+                <div class="wrapper2">
+                    <h2 class="medium_title1">Наш Адрес: Самара, ул. Тополей 10, Школа №100</h2>
+                </div>
+                <div class="wrapper3">
+                    <h5 class="highlight">Коптева Галина Юрьевна (старшая по музею)</h5>
+                    <h5 class="highlight1">+7 927 600 8777</h5>
+                </div>
+                <div class="info">Сайт создал - @Kain_D (Тг)</div>
+                <h2 class="medium_title2">Контакты:</h2>
+            </div>
+            <div class="wrapper4">
+                <div class="flex_row">
+                    <img class="image1" src="./assets/641eb19e547c43c389d1a5c8a61e5fa8.png" alt="alt text" />
+                    <div class="flex_row1">
+                        <button class="btn">
+                            <p><a href="https://vk.com/albums-117846642">Наш фотооальбом</a></p>
+                        </button>
+                        <button class="btn1">
+                            <p><a href="https://vk.com/video/@club117846642">Наш видеоальбом</a></p>
+                        </button>
+                    
+                    </div>
+                    <div class="content_box">
+                        <button class="btn">
+                        <p><a href="https://smr-school100.ru/muzei-shkolyi/muzej-istorii-poselka-yablonka.html">Основная информация музея</a></p>
+                    </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        AOS.init();
+        new Sticky('.sticky-effect');
+    </script>
+</body>
+
+</html>
